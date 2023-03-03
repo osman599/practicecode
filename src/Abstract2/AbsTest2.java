@@ -6,5 +6,11 @@ public class AbsTest2 {
 
         Triangle t= new Triangle();
                 t.area();
+
+                int m = 50;
+                int n = 60;
+                int b= m+n;
+        System.out.println(b);
+
     }
 }
